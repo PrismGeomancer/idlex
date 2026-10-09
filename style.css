@@ -2586,7 +2586,7 @@ footer {
 .landing-mode .landing-nav { display: flex; align-items: center; gap: 28px; margin-left: auto; font-size: 12px; }
 .landing-nav button { padding: 8px 0; }
 .landing-nav button:hover { color: #60754d; }
-.landing-mode .top-actions { gap: 0; }
+.landing-mode .top-actions { gap: 12px; }
 .landing-mode .devnet { display: none; }
 .landing-mode .landing-hero { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); gap: 60px; }
 .landing-mode .landing h1 { font-size: clamp(42px, 4.8vw, 64px); }
